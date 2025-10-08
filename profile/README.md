@@ -7,3 +7,4 @@ If you are a student at Massey and would like to join, then make a pull request 
 
 ## Our Amazing Members
 - James Feng [@jfyeng](https://github.com/jfyeng)
+- Jerry Liu [@TXWD1234](https://github.com/TXWD1234)
