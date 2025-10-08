@@ -6,3 +6,4 @@ We're the Software Club from Vincent Massey Secondary School!
 If you are a student at Massey and would like to join, then make a pull request adding your name to the list!
 
 ## Our Amazing Members
+- James Feng [@jfyeng](https://github.com/jfyeng)
